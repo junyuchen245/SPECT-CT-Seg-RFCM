@@ -11,5 +11,5 @@ Crop a small region of interest in both SPECT and CT image.
 ## Sample Results:
 ![](https://github.com/junyuchen245/SPECT-CT-Seg-RFCM/blob/master/sample_img/seg_results.png)
 
-Figure 6: Red contours in the images represent segmented bone regions and green contours indicate
+Red contours in the images represent segmented bone regions and green contours indicate
 lesion regions. The segmentation result in image (a) was obtained with β = 0.0005 and γ = 0. The segmentation results in images (b), (c), and (d) were obtained with β = 0.0005 and γ = 0.005, 0.01, and 0.05, respectively.
