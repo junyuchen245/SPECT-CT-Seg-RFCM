@@ -3,7 +3,7 @@ This is an implementation of my paper:
 
 <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10949/109491W/Incorporating-CT-prior-information-in-the-robust-fuzzy-C-means/10.1117/12.2506805.short">Chen, Junyu, et al. "Incorporating CT prior information in the robust fuzzy C-means algorithm for QSPECT image segmentation." Proceedings Volume 10949, SPIE Medical Imaging 2019: Image Processing.</a>
 
-This segmentation method was based the <a href="https://www.sciencedirect.com/science/article/pii/S1077314201909518">Robust Fuzzy C-means algorithm</a> with the incorporation of prior knowledge from the CT clustering.
+This segmentation method was based the <a href="https://www.sciencedirect.com/science/article/pii/S1077314201909518">Robust Fuzzy C-means algorithm</a> by Dr. Dzung L.Pham, with the incorporation of prior knowledge from the CT clustering.
 
 ## Preprocess Images:
 Crop a small region of interest in both SPECT and CT image.
