@@ -1,0 +1,5 @@
+CFLAGS=-g3 -O -fPIC -DDEBUG -std=c99
+
+libsegment.dylib : miputil.o update_labels_new.o
+	$(CC) $(CFLAGS) -dynamiclib -o libsegment.dylib miputil.o update_labels_new.o
+
