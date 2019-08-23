@@ -16,3 +16,7 @@ Crop a small region of interest in both SPECT and CT image.
 
 Red contours in the images represent segmented bone regions and green contours indicate
 lesion regions. The segmentation result in image (a) was obtained with β = 0.0005 and γ = 0. The segmentation results in images (b), (c), and (d) were obtained with β = 0.0005 and γ = 0.005, 0.01, and 0.05, respectively.
+
+
+### <a href="junyuchen245.github.io"> About Myself</a>
+
