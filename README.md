@@ -18,5 +18,5 @@ Red contours in the images represent segmented bone regions and green contours i
 lesion regions. The segmentation result in image (a) was obtained with β = 0.0005 and γ = 0. The segmentation results in images (b), (c), and (d) were obtained with β = 0.0005 and γ = 0.005, 0.01, and 0.05, respectively.
 
 
-### <a href="junyuchen245.github.io"> About Myself</a>
+### <a href="https://junyuchen245.github.io"> About Myself</a>
 
